@@ -1,1 +1,1 @@
-# trail-1
+This project for trail purpose for js101 students
